@@ -7,8 +7,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +923053891157
+//▮YOUTUBE CHANNELL: http://wa.me/989388253298
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,7 +16,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING CHOCOLATEY BOT
 //┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IS FOR EVERYONE DONT SELL IT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -33,18 +33,18 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
+global.owner = ['27634090203',''] //owner number +923053891157
 global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
+global.pemilik = ['27634090203'] //owner number +923053891157
+global.premium = ['27634090203'] //premium number +923053891157
+global.pengguna = 'Drips' //CHOCOLATE🍫
 global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
+global.botnma = 'ZIM BOT INC' //CHOCOLATEY BOT
 global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
-global.sessionName = 'session' //session name
+global.ownernma = 'Drips' //CHOCOLATE🍫
+global.packname = 'Drips' //CHOCOLATE🍫
+global.author = 'By Drips Memes' //CHOCOLATE🍫
+global.sessionName = 'session' //v1
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
@@ -54,8 +54,8 @@ global.dripsrecord = false
 global.available = false
 global.unavailable = true
 global.limittot = 100,
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.thumb = fs.readFileSync('./chocolateybot/drips.jpg')
+global.reactmoji = '🇵🇰'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -74,15 +74,15 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*chocolatey bot  must be admin first!*',
+    owner: '*this feature is only for chocolate owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment chocolatey bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
-    noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
+    noPetualang: '*you are not in rpg database type #joinrpg* _chocolate_'
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
